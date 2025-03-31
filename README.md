@@ -1,2 +1,2 @@
 # airflow_test_project
-## This is airflow project for Skillbox module
+This is airflow project for Skillbox module
